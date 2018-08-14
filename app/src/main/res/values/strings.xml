@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Anti-Data Recovery</string>
+    <string name="start">Images</string>
+    <string name="Delete">Delete</string>
+    <string name="Start_With_Folders">Folders</string>
+    <string name="info">Simple Windows And Android Application Developed in Egypt By NanosX Developments , to prevent deleted data recovering As the porn revenge has spread in all of egypt!  With this app , no one can recover your data, all app folders and images at storage/AntiDataRecovery</string>
+    <string name="rate">Rate</string>
+    <string name="task">Task Completed, Delete It Now To Shredd</string>
+    <string name="amr"><a href="https://www.facebook.com/amrhossamdev">Amr Hossam | NanosX Developments</a></string>
+</resources>
